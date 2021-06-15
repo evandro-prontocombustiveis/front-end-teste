@@ -59,7 +59,7 @@ Não esqueça da otimização de velocidade da App nem da experiência do usuár
 * Faça um rest simulado (mock) para receber cupons de desconto na App.
 * (OPCIONAL) Existem dois tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo.
 
-Não existe prazo.
+Prazo sugerido de 7 dias, desde o recebimento do e-mail para a realização do desafio.
 
 # Arquitetura da solução/O que fazer 👩‍💻
 
