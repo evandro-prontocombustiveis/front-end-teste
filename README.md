@@ -17,12 +17,12 @@ Você terá a oportunidade de trabalhar com tecnologias e conceitos inovadores, 
 * AWS
 * Escalabilidade
 * Micro services e aplicações distribuídas
-* Kubernetes
+* Docker
 * Git
 * React.js
-* Material Design
-* BDD
-* Hasana
+* NestJS
+* Typescript
+* Hasura
 
 
 # Tecnologias/Padrões 🛠🔩
