@@ -1,33 +1,47 @@
-# O trabalho por aqui
+![Pronto Combustíveis](https://www.prontocombustiveis.com.br/assets/img/logo-politica-de-privacidade.png)
 
-Que tal fazer parte de um time com atitude “get Fˆ%#ing things done”? Participar de uma das maiores disrupções no mercado? Ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
+# O trabalho por aqui 🚀👨‍🚀👨‍💻🦄
+
+Estamos construindo algo muito significante aqui no PRONTO. 
+Podemos dizer que é **a primeira e maior plataforma do Brasil para cotações, implantação de pedidos, serviço de crédito e entrega de combustíveis para postos Bandeira Branca.**
+
+Mas o que estamos fazendo aqui é maior que isso. Estamos causando uma grande disrupção no mercado de combustíveis do Brasil, aumentando a eficiência de vários elos da cadeira e levando prosperidade para todo o nosso ecossistema.
+
+Buscamos pessoas apaixonadas por criar soluções que resolvam problemas reais e que facilitam a vida de nossos clientes.
+
+Vamos juntos construir essa história de sucesso! 🦄🚀🚀
+
+Você terá a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
 * Práticas ágeis como Kanban / Scrum
-* Google Cloud Platform
+* AWS
 * Escalabilidade
 * Micro services e aplicações distribuídas
 * Kubernetes
 * Git
-* AngularJs/React/Vue
+* React.js
 * Material Design
 * BDD
+* Hasana
 
-# Tecnologias/Padrões
+
+# Tecnologias/Padrões 🛠🔩
 
 Devem ser utilizadas as seguintes tecnologias :
 
 * Qualquer Framework de estilo 
-* Vue.js, React ou Angular 2+
-* Flux (Redux, Vuex, etc)
+* React ou Angular 2+
 * Testes (Que achar necessário) 
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
 
-# O desafio
+# O desafio 🏆
 ## Crie uma Single Page Application de uma loja de quadrinhos utilizando a API da Marvel para todos os consumos de dados.
+
 
 API: [https://developer.marvel.com](https://developer.marvel.com)
 
-Modo básico o App consiste de uma tela de lista de quadrinhos, uma tela de detalhe do quadrinho (comics) e uma funcionalidade de checkout dos quadrinhos adicionados.
+**Modo básico:**
+O App consiste de uma tela de lista de quadrinhos, uma tela de detalhe do quadrinho (comics) e uma funcionalidade de checkout dos quadrinhos adicionados.
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
@@ -38,7 +52,7 @@ Você será avaliado pela qualidade do código, pela modularidade, pela legibili
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
 
-Fatores Negociais:
+**Fatores de negócio:**
 
 * 10% dos quadrinhos carregados devem ser marcados como raros (aleatoriamente no próprio fonte ao carregar o REST). 
 * O checkout deve contemplar a opcão de código de desconto (pode validar mock, sem rest).
@@ -47,11 +61,11 @@ Fatores Negociais:
 
 Não existe prazo.
 
-# Arquitetura da solução/O que fazer
+# Arquitetura da solução/O que fazer 👩‍💻
 
 No arquivo README do projeto explique o funcionamento e a solução adotada na sua implementação do desafio.
 
-## Avaliação
+# Avaliação 📄
 
 Entre os critérios de avaliação estão:
 
@@ -61,3 +75,10 @@ Entre os critérios de avaliação estão:
 * Documentação de código
 * Documentação do projeto (readme)
 * Performance
+
+# Entrega 🚚
+
+Faça um fork deste repositório, crie uma branch com o seu nome completo e depois envie-nos o pull request. 
+Se você apenas clonar o repositório não vai conseguir fazer push e depois vai ser mais complicado fazer o pull request.
+
+Boa sorte! 🍀🤞
