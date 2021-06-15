@@ -45,12 +45,10 @@ O App consiste de uma tela de lista de quadrinhos, uma tela de detalhe do quadri
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
-O layout e por sua conta, seja criativo.
-A arquitetura é por sua conta, seja esperto. 
+O layout é por sua conta, use a criatividade.
+A arquitetura é por sua conta, use a esperteza.
 
-Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
-
-Não esqueça da otimização de velocidade da App nem da experiência do usuário.
+Não esqueça da otimização de velocidade do App, e nem da experiência do usuário.
 
 **Fatores de negócio:**
 
@@ -58,8 +56,6 @@ Não esqueça da otimização de velocidade da App nem da experiência do usuár
 * O checkout deve contemplar a opcão de código de desconto (pode validar mock, sem rest).
 * Faça um rest simulado (mock) para receber cupons de desconto na App.
 * (OPCIONAL) Existem dois tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo.
-
-Prazo sugerido de 7 dias, desde o recebimento do e-mail para a realização do desafio.
 
 # Arquitetura da solução/O que fazer 👩‍💻
 
@@ -71,12 +67,17 @@ Entre os critérios de avaliação estão:
 
 * Usabilidade
 * Criatividade
-* Código limpo e organização
+* Qualidade de código (código limpo e organização)
+* Modularidade do código
+* Legibilidade do código
+* Quantidade de funcionalidades básicas e extras
 * Documentação de código
 * Documentação do projeto (readme)
 * Performance
 
 # Entrega 🚚
+
+Prazo sugerido de 7 dias, desde o recebimento do e-mail para a realização do desafio.
 
 Faça um fork deste repositório, crie uma branch com o seu nome completo e depois envie-nos o pull request. 
 Se você apenas clonar o repositório não vai conseguir fazer push e depois vai ser mais complicado fazer o pull request.
